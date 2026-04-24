@@ -41,7 +41,7 @@
 ### blogs page
 ![Blogs page](readme_res/4.png)
 ### blogs full screen page
-![Blogs full screen page](readme_res/5.png)
+![Blogs full screen page](readme_res/5.png)w
 
 ### write blogs page
 ![Write blogs page](readme_res/6.png)
