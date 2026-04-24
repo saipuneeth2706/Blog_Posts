@@ -31,17 +31,17 @@
 ## No of pages and what are they
 - there are total 6 pages in the website in which all the pages have same header and footer
 ### landing page
-![[readme_res/Pasted image 20260424202550.png]]
+![Landing page](readme_res/Pasted image 20260424202550.png)
 
 ### auth page
-![[readme_res/Pasted image 20260424202822.png]]
+![Auth page](readme_res/Pasted image 20260424202822.png)
 ### authors page
-![[readme_res/Pasted image 20260424202838.png]]
+![Authors page](readme_res/Pasted image 20260424202838.png)
 
 ### blogs page
-![[readme_res/Pasted image 20260424202854.png]]
+![Blogs page](readme_res/Pasted image 20260424202854.png)
 ### blogs full screen page
-![[readme_res/Pasted image 20260424202915.png]]
+![Blogs full screen page](readme_res/Pasted image 20260424202915.png)
 
 ### write blogs page
-![[readme_res/Pasted image 20260424202934.png]]
+![Write blogs page](readme_res/Pasted image 20260424202934.png)
