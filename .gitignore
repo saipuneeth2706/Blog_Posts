@@ -1,7 +1,10 @@
+#backend gitignore file
 backend/target
 backend/.env
 backend/target/
 node_modules/
+.env
+data/
 
 #frontend gitignore file
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.

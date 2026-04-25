@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "install_fresh": "npm install && cd frontend && npm install && npm run build && cd ../backend && cargo build --release",
     "backend_dev": "cd backend && cargo run",
     "frontend_dev": "cd frontend && npm run dev",
     "dev": "concurrently \"npm run backend_dev\" \"npm run frontend_dev\""
@@ -17,3 +18,4 @@
     "concurrently": "^9.2.1"
   }
 }
+
