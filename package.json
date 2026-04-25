@@ -4,10 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "backend_dev": "cd backend && cargo run",
+    "frontend_dev": "cd frontend && npm run dev",
+    "dev": "concurrently \"npm run backend_dev\" \"npm run frontend_dev\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
 }
